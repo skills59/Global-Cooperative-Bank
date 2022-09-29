@@ -1,0 +1,28 @@
+.add-button {
+  color: #fff;
+  background-color: #633bc8de;
+  padding: 12px 45px;
+  font-size: 18px;
+  line-height: 30px;
+  font-weight: 600;
+  transition: 0.3s ease-in;
+  border-radius: var(--border-radius-full); 
+}
+  
+  
+
+.add-button:hover {
+    color: #fff;
+    background-color: #633bc8;
+    border-color: #5e36c0; 
+  }
+
+
+
+  
+
+
+  
+
+
+  

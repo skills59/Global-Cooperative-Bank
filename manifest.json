@@ -1,0 +1,26 @@
+{
+    "name": "Global Cooperative Bank",
+    "short_name": "GCB",
+    "start_url": ".",
+    "background_color": "#6dcdb1",
+    "theme_color": "#009578",
+    "display": "standalone",
+    "icons": [
+      {
+        "src": "/assets/images/favicon.ico",
+        "sizes": "48x48",
+        "type": "image/x-icon"
+      },
+      {
+        "src": "/assets/images/logo192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "/assets/images/logo512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ]
+  }
+  
