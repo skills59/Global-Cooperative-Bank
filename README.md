@@ -4,6 +4,8 @@ GCB is a complete banking system which includes a website and a web application 
 Front End: Css + Javascript
 Backend: XAMPP Apache + MariaDB + PHP + Perl + MySQL
 
+# Legal Notices
+
  ### PLEASE NOTE (Important): 
  this system is designed for test purposes, it is not designed to be used for any form of criminal activity. If anyone is caught doing this, he/she would be charged
 
